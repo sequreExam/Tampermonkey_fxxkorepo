@@ -1,4 +1,4 @@
-# Tampermonkey_fxxkrepo
+# Tampermonkey_fxxkorepo
 ニコレポのいらない通知を消しました。
 
     // ==UserScript==
